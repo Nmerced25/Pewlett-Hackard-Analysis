@@ -8,7 +8,7 @@
 # Results
   # Deliverable 1
   
-    Within the first deliverable, a table was created and filtered in order to find the appropriate amount of elidgeable employees that are ready to retire.
+   Within the first deliverable, a table was created and filtered in order to find the appropriate amount of elidgeable employees that are ready to retire.
   This was achived by creating a "Mod_challenge_Table" with the code that was used below:
   
   ![image](https://user-images.githubusercontent.com/101299252/170849939-28614246-9e02-4a31-bda0-2f00a76b8889.png)
@@ -24,10 +24,10 @@
   -Over 50,000 positions that are opening up
   -The amount of employees that are retiring can cause more damage to the company due to the amount of people that are leaving.
   # Deliverable 2
-    With reguards to the second deliverable, a table would be createrd in order to show employees tgatr were born in a specific period of time by using this code below:
+   With reguards to the second deliverable, a table would be createrd in order to show employees tgatr were born in a specific period of time by using this code below:
   ![image](https://user-images.githubusercontent.com/101299252/170850272-62f12ecf-d25d-4c59-9827-91e27ca90f9d.png)
 
-  -When it came to setting up this code, I again ran into errors that prevented me from moving forward with it. I had tried to troubleshoot the issues with no avail due
+-When it came to setting up this code, I again ran into errors that prevented me from moving forward with it. I had tried to troubleshoot the issues with no avail due
   to a syntax error that continued to show when I would run the code. 
   -This was a similar event that I had ran into in terms of an error within the lesson mod itself when following the steps in the lesson where I would hit a syntax 
   error on a premade code. 
